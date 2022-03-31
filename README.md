@@ -1,6 +1,6 @@
 Bose
 
-- [DEMO LINK](https://godfree25.github.io/layout_miami/)
+- [DEMO LINK](https://godfree25.github.io/Bose/)
 
 Description
 
